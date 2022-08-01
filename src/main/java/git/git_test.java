@@ -8,5 +8,6 @@ public class git_test {
         System.out.println("hello git");
         System.out.println("hello github");
         System.out.println("hello zczcaaaazc");
+        System.out.println("hello push-test");
     }
 }
